@@ -1,11 +1,3 @@
----
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: Android
-author: MC
----
-
 # Markdown Examples
 
 ## h2 Heading
